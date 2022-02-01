@@ -3,5 +3,5 @@ Small and nerdy side project :p
 
 
 ## storm
-![here](storm/storm.rs)
+[here's the link!](storm/storm.rs)
 ![showcase](storm/storm.gif)
