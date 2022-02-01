@@ -2,6 +2,6 @@
 Small and nerdy side project :p
 
 
-##storm
+## storm
 ![here](storm/storm.rs)
 ![showcase](storm/storm.gif)
